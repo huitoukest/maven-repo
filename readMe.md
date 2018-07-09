@@ -9,6 +9,8 @@
     
 # include
 ## tingfengutil-java-base
+说明： https://github.com/huitoukest/tingfengutil-java-base
+
 version:
 - 0.0.1-SNAPSHOT
 
@@ -22,6 +24,8 @@ version:
 
 
 ## tingfengutil-java-extend
+说明：https://github.com/huitoukest/tingfengutil-java-extend
+
 - 0.0.1-SNAPSHOT
 
 ```
